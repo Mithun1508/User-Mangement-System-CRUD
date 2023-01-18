@@ -1,5 +1,5 @@
 
-User Management System is a simple web-application written using MERN stack to demonstrate the CRUD operations.
+Implemented using MERN stack and based on CRUD functionality, this web-app help user to manage their user list very easily
 
 # Getting to know MERN stack components:
 
