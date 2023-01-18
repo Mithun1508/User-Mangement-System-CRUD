@@ -1,5 +1,5 @@
 
-Implemented using MERN stack and based on CRUD functionality, this web-app help user to manage their user list very easily
+Implemented Simple MERN stack and based on CRUD functionality, this web-app help user to manage their user list very easily
 
 # Getting to know MERN stack components:
 
