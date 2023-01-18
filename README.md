@@ -112,10 +112,12 @@ After that click on new user button and fill in the details
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/93249038/213096198-a36b976f-d571-4acf-a305-0f3667ddd7b7.png)
 
-And the User added results displaying in Usermanagement users list 
+And the User added results displaying in User management System.
+
 ![Screenshot (46)](https://user-images.githubusercontent.com/93249038/213098511-0b998b10-ddff-479b-b2c2-2b6ca0bfc2cc.png)
 
-Similarly you can delete an existing user/ Updating user details from the User Management and So on..
+
+Similarly you can delete an existing user/ Updating user details from the User Management System and So on..
 
 That's it. Happy Coding ..!!
 
