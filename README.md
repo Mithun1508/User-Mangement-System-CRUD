@@ -94,7 +94,7 @@ Integrating front-end and back-end
   
   ![x](https://user-images.githubusercontent.com/93249038/213093722-47234234-c296-40e6-a16d-e735746749e6.jpg)
 
-# Connecting the Application with MongoDB Atlas after creating an instance 
+# Connecting the Application with MongoDB Atlas(cloud-provider) after creating an instance 
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/93249038/213092961-00b6cfd5-8481-4339-bfaf-b49fe85c9374.png)
 
