@@ -1,11 +1,6 @@
 
 User Management System is a simple web-application written using MERN stack to demonstrate the CRUD operations.
 
-MERN stack comprises of four technologies namely MongoDB, Express, React and Node
-
-Each of these four powerful technologies provides an end-to-end framework for the developers to work in and each of these technologies play a big part in the development of web applications.
-
-
 # Getting to know MERN stack components:
 
 # MongoDB: 
