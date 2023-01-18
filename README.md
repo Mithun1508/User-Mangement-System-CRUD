@@ -97,6 +97,9 @@ Integrating front-end and back-end
  
   ![jpg](https://user-images.githubusercontent.com/93249038/213092514-832fc4d1-39a4-4885-b908-4ec1bcb681e4.jpg)
   
+  ![x](https://user-images.githubusercontent.com/93249038/213093722-47234234-c296-40e6-a16d-e735746749e6.jpg)
+
+  
 Now use the following code to start the server with nodemon. Ensure that the following command is executed from the project directory.
 
 $ npm start
