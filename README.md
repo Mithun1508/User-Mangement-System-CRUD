@@ -108,9 +108,7 @@ You should see something like this after starting a sever it's connected
 
  ![Screenshot (45)](https://user-images.githubusercontent.com/93249038/213095817-f84b8c45-fe0a-40b8-990f-0f09f418f1ce.png)
 
+After that click on new user button   
 
-
-
-# List of Users Created in User Mangement System 
-
+![Screenshot (44)](https://user-images.githubusercontent.com/93249038/213096198-a36b976f-d571-4acf-a305-0f3667ddd7b7.png)
 
