@@ -87,4 +87,24 @@ Integrating front-end and back-end
  
  6) Front-end validation (HTML)
  
+ #packages to be installed :
+ 
+ 1) $ npm i axios react-router-dom
+ 
+ ![k1](https://user-images.githubusercontent.com/93249038/213092432-88cbb785-076c-403d-afc4-e0ae8beeb76f.jpg)
+ 
+ 2) $ npm install cors express dotenv mongoose nodemon
+ 
+  ![jpg](https://user-images.githubusercontent.com/93249038/213092514-832fc4d1-39a4-4885-b908-4ec1bcb681e4.jpg)
+  
+Now use the following code to start the server with nodemon. Ensure that the following command is executed from the project directory.
 
+$ npm start
+
+# Connecting to MongoDB Atlas 
+
+![Screenshot (41)](https://user-images.githubusercontent.com/93249038/213092961-00b6cfd5-8481-4339-bfaf-b49fe85c9374.png)
+
+# List of Users Created in User Mangement System 
+
+![Screenshot (40)](https://user-images.githubusercontent.com/93249038/213093298-70d559d6-ffb0-458a-ae2a-92d45d5ae278.png)
