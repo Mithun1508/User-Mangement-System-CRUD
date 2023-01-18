@@ -87,7 +87,7 @@ Integrating front-end and back-end
  
  6) Front-end validation (HTML)
  
- #packages to be installed :
+ # packages to be installed :
  
  1) $ npm i axios react-router-dom
  
