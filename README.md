@@ -99,7 +99,7 @@ Now use the following code to start the server with nodemon. Ensure that the fol
 
 $ npm start
 
-# Connecting to MongoDB Atlas 
+# Connecting the Application with MongoDB Atlas after creating an instance 
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/93249038/213092961-00b6cfd5-8481-4339-bfaf-b49fe85c9374.png)
 
