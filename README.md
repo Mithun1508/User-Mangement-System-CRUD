@@ -94,15 +94,23 @@ Integrating front-end and back-end
   
   ![x](https://user-images.githubusercontent.com/93249038/213093722-47234234-c296-40e6-a16d-e735746749e6.jpg)
 
+# Connecting the Application with MongoDB Atlas after creating an instance 
+
+![Screenshot (41)](https://user-images.githubusercontent.com/93249038/213092961-00b6cfd5-8481-4339-bfaf-b49fe85c9374.png)
+
+
   
 Now use the following code to start the server with nodemon. Ensure that the following command is executed from the project directory.
 
 $ npm start
 
-# Connecting the Application with MongoDB Atlas after creating an instance 
+You should see something like this after starting a sever it's connected 
 
-![Screenshot (41)](https://user-images.githubusercontent.com/93249038/213092961-00b6cfd5-8481-4339-bfaf-b49fe85c9374.png)
+ ![Screenshot (45)](https://user-images.githubusercontent.com/93249038/213095817-f84b8c45-fe0a-40b8-990f-0f09f418f1ce.png)
+
+
+
 
 # List of Users Created in User Mangement System 
 
-![Screenshot (40)](https://user-images.githubusercontent.com/93249038/213093298-70d559d6-ffb0-458a-ae2a-92d45d5ae278.png)
+
